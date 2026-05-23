@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "eliekh05"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "ttl": 300,
+      "value": "droidify.cfargotunnel.com"
+    }
+  ]
+}
